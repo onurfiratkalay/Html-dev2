@@ -2,4 +2,4 @@
 
 
 
-patika.dev profilim --> https://app.patika.dev/onrfrt 
+patika.dev profilim --> ![https://app.patika.dev/onrfrt](Onur Fırat Kalay)
